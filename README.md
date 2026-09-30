@@ -1,10 +1,5 @@
 
 # Run and deploy your vs code 
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/e1983807-308d-4fff-a2f6-f0a5cf026a10
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
